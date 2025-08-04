@@ -36,6 +36,19 @@ body {
   background-color: #f6f0f0;
 }
 
+.main-nav {
+  text-align: center;
+  padding: 5px;
+  justify-content: center;
+  display: flex;
+}
+
+.main-nav-list {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+}
+
 .About-section {
   font-size: 10rem;
   justify-content: center;

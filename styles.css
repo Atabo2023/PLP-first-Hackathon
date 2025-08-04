@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 60.5%;
+}
+
+.header {
+  color: #f0f0f0;
+  justify-items: center;
+  align-content: center;
+  background-color: #111037;
+  height: 15rem;
+  text-align: center;
+  font-size: x-large;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  height: 85%;
+  width: 100%;
+  color: #111037;
+}
+
+.introduction {
+  font-size: 3rem;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #111037;
+  background-color: #f6f0f0;
+}
+
+.About-section {
+  font-size: 10rem;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
